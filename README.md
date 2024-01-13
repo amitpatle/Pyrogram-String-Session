@@ -1,4 +1,4 @@
-Certainly! Below is a simple README file for the Python code to get a Pyrogram string session:
+
 
 ---
 
